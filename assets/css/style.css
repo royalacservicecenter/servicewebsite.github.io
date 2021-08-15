@@ -648,7 +648,6 @@ header {
     padding: 20px;
     text-align: center;
     font-size: 12px;
-    background: url(../images/quotes.png) no-repeat bottom right;
     background-color: rgba(0, 0, 0, 0);
     background-position-x: right;
     background-position-y: bottom;
@@ -677,7 +676,7 @@ header {
 
 /* ===================================== Fooer CSS ================================== */
 .footer {
-  padding: 50px;
+  padding: 20px;
   background-color: #444;
   color: #FFF; }
   @media screen and (max-width: 940px) {
